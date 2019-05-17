@@ -1,0 +1,12 @@
+nav {
+ul {
+   display: grid;
+   @include grid-template-columns(1fr 1fr 1fr 1fr);
+
+
+a 
+{text-align: center;
+
+}
+}
+}
